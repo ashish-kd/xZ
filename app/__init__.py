@@ -1,0 +1,1 @@
+# FastAPI Receipt Splitter App 
